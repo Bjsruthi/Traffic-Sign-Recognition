@@ -38,7 +38,7 @@ TrafficSignRecognition/
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Bjsruthi/Traffic-Sign-Recognition.git
 cd TrafficSignRecognition
 
 python -m venv .venv
@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ## Run the Application
 
 ```bash
-python clientApp.py
+python app.py
 ```
 
 Open your browser and visit:
